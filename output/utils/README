@@ -1,0 +1,36 @@
+
+Dear GREB-GCR users,
+
+
+the utils directory has the purpose of presenting some examples of plotting and manipulation of the results obtained with the GREB-GCR.
+
+Plotting fields and graphs can be done easily with the Grid Analysis and Display System (GrADS). Some GrADS examples are available in the utils directory. We can to install the GrADS in Ubuntu 18.04 from linux terminal:
+
+`sudo apt install grads`
+
+next step is make a copy of the diretory `Scripts` to your home `$/home/name_machine/`. Then edit the file .bashrc adding the enviroment variable below:
+
+GASCRP=/home/name_machine/Scripts; export GASCRP
+
+Finish with `source .bashrc` in terminal and open a new terminal window.   
+ 
+
+To easily manipulate the data obtained in the simulations is suggest the use of the Climate Data Operator (CDO), within the utils directory there is a 
+Cshell script "examples_cdo.csh", this script show interpolations, turns the series from monthly average to annual average ... more functions and examples 
+can be found in (https://code.mpimet.mpg.de/projects/cdo/wiki/Tutorial).
+
+If you wanna in Portuguese language, look Guilherme Martins tutorial:
+(https://sites.google.com/site/jgmsantos/tutoriais/cdo)
+ 
+
+In the Ubuntu 18.04 the installation of CDO is very easy, write in your terminal:
+
+sudo apt update 
+sudo apt install cdo
+
+Then type in terminal 'cdo -v' and check out the version and supported libraries.
+
+Good luck!
+Emerson D. Oliveira
+
+
