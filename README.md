@@ -30,30 +30,6 @@ If everything is correct, CONGRATULATIONS the GREB-GCR template is already insta
 
 Now edit the namelist of the run.csh file
 
-###### Setting the namelist #########
-
-set ini_yr  =  1940      # Starter Year 
-
-set ctr_yr  =  1970      # Control Year [Fix year]
-
-set ctr_co2 =  340       # Control CO2 value [ppm]
-
-set tflux   =  10        # Fluxe Corrections [years]
-
-set tctrl   =  10        # Control Experiments [years]
-
-set tscnr   =  10        # Total Years Simulation [years]
- 
-set exp     =  20        # Choice experiment number
-
-set name    =  EXP20     # Output directory name
-
-set vcld    =  0.01      # Cloud cover variation [%]
-
-set nproc   =  2         # Threads number [1 or 2]
-
-######################################
-
 Ready, type in the ./run.csh terminal and the model will start the simulation.
 
 Good luck,
