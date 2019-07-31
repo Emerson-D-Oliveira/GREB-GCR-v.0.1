@@ -1,0 +1,14 @@
+&NUMERICS
+time_flux = 10    ! length of flux corrections run [yrs]
+time_ctrl = 10    ! length of control run [yrs]
+time_scnr = 10    ! length of scenariorun [yrs]
+name_exp  = "EXP20"   ! Choice an name for output run;
+var_co2   = 340  ! CO2 Control [ppm]
+init_yr   = 1940   ! Initial Year
+ctrl_yr   = 1970   ! Ano de controle
+/
+&PHYSICS
+log_exp   = 20      ! complete GREB model; 2xCO2 forcing
+var_cloud = 0.01,    ! Variability Cloud Cover [%]; 
+max_sn    = 269.3,    ! Maximum Sunspot Number;
+/
