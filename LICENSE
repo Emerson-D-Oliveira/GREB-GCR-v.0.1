@@ -1,17 +1,21 @@
-###########################################################################################
-#                                                                                         #
-#   GLOBAL RESOLVED ENERGY BALANCED WITH GALACTIC COSMIC RAYS - GREB-GCR-v.0.1            #  
-#                                                                                         # 
-#   Simplified climate model inspired by the galactics cosmic                             #
-#   rays theory and the increase in greenhouse gas emission on                            # 
-#   global climate system. This model was developed from the                              #
-#   greb model code "http://users.monash.edu.au/~dietmard/content/GREB/GREB_model.html"   #
-#                                                                                         #                                          
-#   Install: https://sites.google.com/view/klimatosfera/greb-gcr                          #
-#                                                                                         #
-#   contact: emerson.oliveira@univasf.edu.br                                              #
-#                                                                                         #
-###########################################################################################
+##########################################################################################################################
+#                                                                                                                        #
+#                     GLOBAL RESOLVED ENERGY BALANCED WITH GALACTIC COSMIC RAYS - GREB-GCR-v.0.1                         #  
+#                                                                                                                        # 
+#   Simplified climate model inspired by the galactics cosmic rays theory and the increase in greenhouse gas emission    #   
+#   on global climate system. This model was developed from the greb model code, the GREB model is available in:         #   
+#   "http://users.monash.edu.au/~dietmard/content/GREB/GREB_model.html"                                                  #
+#                                                                                                                        #
+#   The tool GREB-GCR was developed for a doctorate thesis, available at the link below:                                 #          
+#   "https://repositorio.ufrn.br/jspui/bitstream/123456789/27210/1/Simula%c3%a7%c3%b5estemperaturaar_Oliveira_2019.pdf"  #                                                                                                                  
+#                                                                                                                        #
+#   The model GREB-GCR has been validated and the results published in an article, read this work at the link below:     #                                                                                          
+#   "https://periodicos.ufpe.br/revistas/rbgfe/article/view/236751"                                                      #
+#                                                                                                                        #
+#   contact: emerson.oliveira@univasf.edu.br                                                                             #
+#                                                                                                                        #    
+#                                                                                                                        #   
+##########################################################################################################################
   
     Copyright (C) <2019>  <Emerson D. Oliveira>
 
