@@ -30,6 +30,8 @@ If everything is correct, CONGRATULATIONS the GREB-GCR template is already insta
 
 Now edit the namelist of the run.csh file
 
+WARNING!!! -> run.csh file requires permission to run, type in terminal "chmod 777 run.csh"
+
 Ready, type in the ./run.csh terminal and the model will start the simulation.
 
 Good luck,
