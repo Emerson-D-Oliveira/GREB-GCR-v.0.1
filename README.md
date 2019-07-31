@@ -15,7 +15,6 @@ Source code compilation:
 Ubuntu operating system
 
 Browse through the terminal to the directory where the GREB-GCR-v.0.1.zip file is located. 
-In this example I left the file in the Desktop directory.
 
 Unzip the file: unzip GREB-GCR-v.0.1.zip
 
