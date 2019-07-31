@@ -8,7 +8,7 @@ Install a Fortran Compiler,
 Install the Cshell Script Language,
 
 GREB-GCR is already configured to run with the gfortran compiler,
-if you want to use another compiler, you must edit the Makefile file in the source folder.
+if you want to use another compiler, you must edit the Makefile in the source folder.
 
 Source code compilation:
 
