@@ -59,13 +59,13 @@ time_ctrl = $tctrl    ! length of control run [yrs]
 time_scnr = $tscnr    ! length of scenariorun [yrs]
 name_exp  = "$name"   ! Choice an name for output run;
 var_co2   = $ctr_co2  ! CO2 Control [ppm]
-init_yr   = $ini_yr   ! Initial Year
-ctrl_yr   = $ctr_yr   ! Ano de controle
+init_yr   = $ini_yr   ! starter year
+ctrl_yr   = $ctr_yr   ! control year
 /
 &PHYSICS
 log_exp   = $exp      ! complete GREB model; 2xCO2 forcing
-var_cloud = $vcld,    ! Variability Cloud Cover [%]; 
-max_sn    = 269.3,    ! Maximum Sunspot Number;
+var_cloud = $vcld,    ! variability cloud cover [%]; 
+max_sn    = 269.3,    ! maximum sunspot number;
 /
 EOF
 mv namelist exec/
