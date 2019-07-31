@@ -4,19 +4,15 @@ GREB-GCR Installation
 
 Basic Requirements:
 
-Install a Fortran Compiler
-Install the Cshell Script Language
+Install a Fortran Compiler,
+Install the Cshell Script Language,
+
 GREB-GCR is already configured to run with the gfortran compiler,
 if you want to use another compiler, you must edit the Makefile file in the source folder.
 
 Source code compilation:
 
 Ubuntu operating system
-
-Open a linux terminal
-Use the shortcut: Ctrl + Alt + T
-Type: ls
-Hit the enter key
 
 Browse through the terminal to the directory where the GREB-GCR-v.0.1.zip file is located. 
 In this example I left the file in the Desktop directory.
