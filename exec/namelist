@@ -4,8 +4,8 @@ time_ctrl = 10    ! length of control run [yrs]
 time_scnr = 10    ! length of scenariorun [yrs]
 name_exp  = "EXP20"   ! Choice an name for output run;
 var_co2   = 340  ! CO2 Control [ppm]
-init_yr   = 1940   ! Initial Year
-ctrl_yr   = 1970   ! Ano de controle
+init_yr   = 1940   ! starter Year
+ctrl_yr   = 1970   ! control Year
 /
 &PHYSICS
 log_exp   = 20      ! complete GREB model; 2xCO2 forcing
