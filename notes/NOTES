@@ -20,7 +20,7 @@
 ->  3) Set namelist variables in run.csh;
 ->  4) Now execute './run.csh';    
 
-    How plot GREB-GCR output files?
+    How plot GREB-GCR output files? 
 
 ->  1) Open utils directory;
 ->  2) Read file README;
