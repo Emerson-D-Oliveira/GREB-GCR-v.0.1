@@ -1,0 +1,32 @@
+     #################################################################################################
+     #                                                                                               # 
+     #        WELLCOME TO 'GLOBAL RESOLVED ENERGY BALANCE WITH GALACTIC COSMIC RAYS' (GREB-GCR)      #
+     #                                                                                               #
+     #################################################################################################
+
+
+  /********************************************** NOTES ***************************************************/
+
+        This version of the Globally Resolved Energy Balance (GREB) Climate Model, is an adaptation             
+        developed to simulate the effects of Galactic Comisc Rays theory on earth climate system.    
+                                                                                                                                                                                                                                                                                                                                                
+
+  /********************************************************************************************************/
+
+    How run the GREB-GCR?
+
+->  1) Entire in source directory;
+->  2) Type in the terminal 'make greb';
+->  3) Set namelist variables in run.csh;
+->  4) Now execute './run.csh';    
+
+    How plot GREB-GCR output files?
+
+->  1) Open utils directory;
+->  2) Read file README;
+->  3) Install GrADS;
+->  4) Use scripts examples '******.gs';
+
+   Bye! 
+ 
+   Emerson D. Oliveira
