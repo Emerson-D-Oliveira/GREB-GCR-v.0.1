@@ -25,7 +25,7 @@ Enter the source directory
 Build the model: make greb
 
 When the compilation is finished an executable file "greb.x" is generated in the exec folder. 
-If everything is correct, CONGRATULATIONS the GREB-GCR template is already installed.
+If everything is correct, CONGRATULATIONS the GREB-GCR was installed.
 
 Now edit the namelist of the run.csh file
 
