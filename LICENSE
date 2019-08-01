@@ -1,6 +1,7 @@
 ##########################################################################################################################
 #                                                                                                                        #
 #                     GLOBAL RESOLVED ENERGY BALANCED WITH GALACTIC COSMIC RAYS - GREB-GCR-v.0.1                         #  
+#                                                                                                                        #
 #                                                                                                                        # 
 #   Simplified climate model inspired by the galactics cosmic rays theory and the increase in greenhouse gas emission    #   
 #   on global climate system. This model was developed from the greb model code, the GREB model is available in:         #   
@@ -11,6 +12,9 @@
 #                                                                                                                        #
 #   The model GREB-GCR has been validated and the results published in an article, read this work at the link below:     #                                                                                          
 #   "https://periodicos.ufpe.br/revistas/rbgfe/article/view/236751"                                                      #
+#                                                                                                                        #  
+#   GREB-GCR site below:                                                                                                 #
+#   "https://sites.google.com/view/klimatosfera/greb-gcr"                                                                #
 #                                                                                                                        #
 #   contact: emerson.oliveira@univasf.edu.br                                                                             #
 #                                                                                                                        #    
