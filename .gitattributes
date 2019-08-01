@@ -1,1 +1,3 @@
-*.rb linguist-language=Fortran
+* linguist-vendored
+*.js linguist-vendored=false
+*.ft linguist-language=true
